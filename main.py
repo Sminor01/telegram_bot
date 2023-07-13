@@ -9,6 +9,7 @@ import barcode
 from pyzbar import pyzbar
 import cv2
 
+#create bot with botfather#
 TOKEN = '#your token#'
 
 bot = telebot.TeleBot(TOKEN)
