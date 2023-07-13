@@ -4,7 +4,7 @@ from aiogram.utils import executor
 from pybarcodes import EAN13
 from io import BytesIO
 
-bot = Bot(token="6257880927:AAF7A_P5XVNTtoOCQewAaqP8MW9ttugfWg4")
+bot = Bot(token="#your token#")
 dp = Dispatcher(bot)
 
 
